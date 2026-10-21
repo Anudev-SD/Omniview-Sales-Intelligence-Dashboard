@@ -1,0 +1,6 @@
+{
+  "name": "OmniView Sales Intelligence Dashboard",
+  "description": "Interactive multi-dimensional sales analytics dashboard featuring real-time filtering, temporal trends, basket co-occurrence analysis, Pareto breakdown, and dynamic visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
